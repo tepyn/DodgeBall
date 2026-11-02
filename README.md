@@ -8,6 +8,7 @@ character, ground and balls (animated to drop randomly from the top of the scree
 The player can move the character by pressing 'A' for Left and 'D' for right
 If the player fails to avoid the ball, they would lose the game and could either
 choose to restart. The player wins if they manage to dodge 15 balls. 
+
 **Files details:**
 - Project2Runner.java: where to run the game
 - Dodgeball.java handles the mechanics of the game
